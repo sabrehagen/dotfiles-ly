@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=desktop-environment
+Exec=/etc/ly/login.sh
+Terminal=true
